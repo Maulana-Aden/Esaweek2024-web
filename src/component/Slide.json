@@ -1,0 +1,36 @@
+[
+  {
+    "image": "/img/story.png",
+    "name": "Story Telling",
+    "description": "Participants will narrate a story of their choice, using their voice, expressions, and gestures to bring the tale to life. They can choose from a range of genres, including fairy tales, personal anecdotes, or imaginative fiction.",
+    "button": "Register Now"
+  },
+
+  {
+    "image": "/img/speech.png",
+    "name": "Speech",
+    "description": "Participants will prepare and deliver a speech on a pre-assigned topic or a topic of their choice. The speech should aim to inform, persuade, or inspire the audience, showcasing the speaker's ability to communicate effectively.",
+    "button": "Register Now"
+  },
+
+  {
+    "image": "/img/essay.jpeg",
+    "name": "Essay",
+    "description": "Participants will write an essay on a given theme or topic, demonstrating their ability to articulate thoughts and ideas in a clear and engaging manner. Essays should be well-structured, original, and reflective of the writer's personal voice.",
+    "button": "Register Now"
+  },
+
+  {
+    "image": "/img/poetry.jpg",
+    "name": "Poem Reading",
+    "description": "Participants will select a poem to read aloud, focusing on expressive delivery that captures the poem's emotion and rhythm. They can choose from published works or original compositions.",
+    "button": "Register Now"
+  },
+
+  {
+    "image": "/img/spelling.png",
+    "name": "Spelling Bee",
+    "description": "Participants will take turns spelling words aloud, starting with easier words and progressing to more difficult ones as the competition advances. Each participant must spell the word correctly to stay in the competition.",
+    "button": "Register Now"
+  }
+]
