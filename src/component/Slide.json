@@ -1,0 +1,36 @@
+[
+  {
+    "image": "/img/story.png",
+    "name": "Story Telling",
+    "description": "Lomba menceritakan suatu cerita secara individual untuk pelajar SMP/sederajat dan SMA/sederajat se-Jawa Tengah. Peserta diperbolehkan menggunakan alat peraga yang berhubungan dengan cerita. <br/>Ketentuan Lomba: <br/>Peserta menceritakan suatu cerita.Peserta diperbolehkan menggunakan alat peraga yang relevan dengan cerita.",
+    "button": "Register Now"
+  },
+
+  {
+    "image": "/img/speech.png",
+    "name": "Speech",
+    "description": "Lomba pidato untuk pelajar SMA/sederajat se-Jawa Tengah dan mahasiswa/mahasiswi perguruan tinggi se-Jawa Tengah. <br/>Ketentuan Lomba: <br/> <pre/>Tingkat SMA/sederajat se-Jawa Tengah:<br/> Setiap peserta membawakan pidato hasil karya sendiri dengan tema yang ditentukan oleh panitia.<br/> Tingkat Perguruan Tinggi se-Jawa Tengah:<br/> Setiap peserta membawakan pidato hasil karya sendiri yang dibuat pada hari pelaksanaan lomba dengan tema yang telah ditentukan oleh panitia.",
+    "button": "Register Now"
+  },
+
+  {
+    "image": "/img/essay.jpeg",
+    "name": "Essay",
+    "description": "Lomba menulis esai dalam bahasa Inggris untuk mahasiswa/mahasiswi se-Jawa Tengah. <br/>Ketentuan Lomba: <br/>Peserta mengumpulkan draft esai berbahasa Inggris. Esai akan diseleksi oleh juri hingga terpilih 10 esai untuk dipresentasikan saat babak final.",
+    "button": "Register Now"
+  },
+
+  {
+    "image": "/img/poetry.jpg",
+    "name": "Poem Reading",
+    "description": "Lomba membaca puisi dalam bahasa Inggris untuk pelajar SMP/sederajat dan SMA/sederajat se-Jawa Tengah. <br/.>Ketentuan Lomba: <br/>Peserta membacakan puisi dengan tema yang telah ditentukan oleh panitia.",
+    "button": "Register Now"
+  },
+
+  {
+    "image": "/img/spelling.png",
+    "name": "Spelling Bee",
+    "description": "Lomba mengeja kata untuk pelajar SMP/sederajat dan SMA/sederajat se-Jawa Tengah. <br/>Ketentuan Lomba: <br/>Peserta mengeja kata berbahasa Inggris yang sudah ditentukan oleh panitia.",
+    "button": "Register Now"
+  }
+]
