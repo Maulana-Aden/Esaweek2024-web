@@ -29,7 +29,7 @@ const Footer = () => {
                 <CiMail />
                 <p>Mail</p>
               </div>
-              <p>Something@gmail.com</p>
+              <p>esafbsunnes@gmail.com</p>
             </div>
             <div className="social">
               <div className="social-icon">
