@@ -21,7 +21,7 @@ const Footer = () => {
                 <p>Call</p>
               </div>
               <p>
-                Person <br /> +62 896-6489-9940
+                Husein <br /> +62 878-3011-9787
               </p>
             </div>
             <div className="mail">
