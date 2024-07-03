@@ -15,7 +15,7 @@ const Hero = () => {
           animate="visible"
           transition={{ duration: 0.5, delay: 0.25 }}
         >
-          <h1>EsaWeek</h1>
+          <h1>ESA Week</h1>
           <h2>2024</h2>
         </motion.div>
         <motion.div
