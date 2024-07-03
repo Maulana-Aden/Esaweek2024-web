@@ -68,18 +68,8 @@ const Event = () => {
                       <br />
                       <br />
                       Ketentuan Lomba: <br />
-                      Tingkat SMA/sederajat se-Jawa Tengah:
-                      <br />
                       &nbsp; - Setiap peserta membawakan pidato hasil karya
                       sendiri dengan tema yang ditentukan oleh panitia.
-                      <br />
-                      &nbsp; - Peserta menceritakan suatu cerita.
-                      <br />
-                      <br />
-                      Tingkat Perguruan Tinggi se-Jawa Tengah:
-                      <br /> &nbsp; - Setiap peserta membawakan pidato hasil
-                      karya sendiri yang dibuat pada hari pelaksanaan lomba
-                      dengan tema yang telah ditentukan oleh panitia.
                     </p>
                   </div>
 
