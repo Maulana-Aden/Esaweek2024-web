@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="footer-logo">
           {/* <img src="/img/icon-header.png" alt="" /> */}
-          <span>Esaweek2024</span>
+          <span>ESA Week2024</span>
         </div>
         <div className="footer-contact">
           <h4>Contact Us</h4>
