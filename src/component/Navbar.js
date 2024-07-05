@@ -60,7 +60,7 @@ const Navbar = () => {
         <div className="icon">
           <a href="#main">
             {/* <img src="/img/icon-header.png" alt="" /> */}
-            <span>Esaweek2024</span>
+            <span>ESA Week2024</span>
           </a>
         </div>
 
@@ -76,7 +76,7 @@ const Navbar = () => {
             <div className="navbar-header">
               <a href="/">
                 {/* <img src="/img/icon-header.png" alt="" width={"100px"} /> */}
-                <span>Esaweek2024</span>
+                <span>ESA Week2024</span>
               </a>
               <div
                 className="close-tag"
