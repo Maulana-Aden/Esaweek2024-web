@@ -11,9 +11,9 @@ const About = () => {
         </div>
         <div className="about-text">
           <h3>About the event</h3>
-          <h1>Welcome to EsaWeek 2024</h1>
+          <h1>Welcome to ESA Week 2024</h1>
           <p>
-            Esa Week merupakan sebuah acara kompetisi akademik di bidang Bahasa
+            ESA Week merupakan sebuah acara kompetisi akademik di bidang Bahasa
             Inggris yang diselenggarakan oleh English Student Association
             (Himpunan Mahasiswa Bahasa Inggris UNNES) untuk para pelajar tingkat
             sekolah menengah dan perguruan tinggi se- Jawa Tengah. Acara ini
