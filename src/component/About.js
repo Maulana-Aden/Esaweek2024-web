@@ -130,7 +130,7 @@ const About = () => {
                   deleteSpeed={25}
                   loop={0}
                   typeSpeed={75}
-                  words={["Esa Week 2024"]}
+                  words={["ESA Week 2024"]}
                 />
               </h1>
             </motion.div>
