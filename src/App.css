@@ -1609,7 +1609,7 @@ pre {
 
   .assets-bg .assets-fairy {
     position: absolute;
-    right: -50px;
+    right: 20px;
     bottom: 50px;
     width: 200px;
     filter: drop-shadow(0 0 20px rgb(227, 227, 121));
