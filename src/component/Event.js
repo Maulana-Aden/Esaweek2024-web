@@ -112,8 +112,8 @@ const Event = () => {
                   <h1>Speech</h1>
                   <div className="event-desc">
                     <p>
-                      Lomba pidato untuk pelajar SMA/sederajat se-Jawa Tengah
-                      dan mahasiswa/mahasiswi perguruan tinggi se-Jawa Tengah.
+                      Lomba pidato untuk pelajar SMA/sederajat se-Pulau Jawa
+                      dan mahasiswa/mahasiswi perguruan tinggi se-Pulau Jawa .
                       <br />
                       <br />
                       Ketentuan Lomba: <br />
@@ -137,7 +137,7 @@ const Event = () => {
                   <div className="event-desc">
                     <p>
                       Lomba menulis esai dalam bahasa Inggris untuk
-                      mahasiswa/mahasiswi se-Jawa Tengah. <br />
+                      mahasiswa/mahasiswi se-Pulau Jawa. <br />
                       <br />
                       Ketentuan Lomba: <br />
                       &nbsp; - Peserta mengumpulkan draft esai berbahasa
