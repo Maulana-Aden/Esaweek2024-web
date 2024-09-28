@@ -112,8 +112,7 @@ const Event = () => {
                   <h1>Speech</h1>
                   <div className="event-desc">
                     <p>
-                      Lomba pidato untuk pelajar SMA/sederajat se-Pulau Jawa
-                      dan mahasiswa/mahasiswi perguruan tinggi se-Pulau Jawa .
+                      Lomba pidato untuk pelajar SMA/sederajat se-Pulau Jawa.
                       <br />
                       <br />
                       Ketentuan Lomba: <br />
